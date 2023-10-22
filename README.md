@@ -6,7 +6,7 @@ Chat uygulaması tanıtım projesidir
 
 - Stillendirme için CSS kullandım
 
--İskelet yapısı için HTML kullandım
+- İskelet yapısı için HTML kullandım
 
 
 
